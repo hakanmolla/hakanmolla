@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/hakanmollaahmetoglu/" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-12.png](https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg"
+      src="https://cdn-icons-png.flaticon.com/512/3670/3670274.png"
       alt="waroi"
       height="40"
       width="40"
