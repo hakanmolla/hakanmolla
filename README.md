@@ -8,14 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/_hakan_molla" target="blank">
-    <img
-      align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-2.png"
-      alt="waroi"
-      height="40"
-      width="40"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/" target="blank">
     <img
       align="center"
@@ -34,7 +26,7 @@
       width="40"
     />
   </a>
-  
+    </p>
  
 
 
