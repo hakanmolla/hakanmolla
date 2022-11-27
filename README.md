@@ -19,8 +19,8 @@
   <a href="https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png"
-      alt="waroi"
+      src="[https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)"
+      alt="HakanMolla"
       height="40"
       width="40"
     />
@@ -29,7 +29,7 @@
     <img
       align="center"
       src="https://cdn-icons-png.flaticon.com/512/3670/3670274.png"
-      alt="waroi"
+      alt="HakanMolla"
       height="40"
       width="40"
     />
