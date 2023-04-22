@@ -1,51 +1,25 @@
-<h1 align="center">Hi 👋, I'm Hakan Mollaahmetoğlu</h1>
-<h3 align="center">voip expert and open source code lover from Istanbul</h3>
+# Merhaba! Benim adım I'm Hakan Mollaahmetoğlu 👋
 
-- 🔭 I’m currently working at [Sys](https://www.sys.com.tr/).
-- 🌱 I’m currently learning **JavaScript,Python ** 
-- 💬 Ask me about **Asterisk, Linux**
+[![Telekom Sektörü Uzmanı](https://img.shields.io/badge/Uzman-Telekom%20Sekt%C3%B6r%C3%BC-ff9900?style=for-the-badge&logo=telekom&logoColor=white)](https://www.example.com)
+[![Asterisk Uzmanı](https://img.shields.io/badge/Uzman-Asterisk-2C2255?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
+[![VoIP Uzmanı](https://img.shields.io/badge/Uzman-VoIP-006BA7?style=for-the-badge&logo=voip&logoColor=white)](https://www.example.com)
+[![Network Uzmanı](https://img.shields.io/badge/Uzman-Network-0078D7?style=for-the-badge&logo=network&logoColor=white)](https://www.example.com)
+[![Linux Uzmanı](https://img.shields.io/badge/Uzman-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.example.com)
+[![Server Uzmanı](https://img.shields.io/badge/Uzman-Server-008272?style=for-the-badge&logo=server&logoColor=white)](https://www.example.com)
+[![Sanallaştırma Teknolojileri Uzmanı](https://img.shields.io/badge/Uzman-Sanalla%C5%9Ft%C4%B1rma-5EBA7D?style=for-the-badge&logo=virtualization&logoColor=white)](https://www.example.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_hakan_molla" target="blank">
-  <a href="https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/" target="blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/49/49408.png"
-      alt="HakanMolla"
-      height="40"
-      width="40"
-    />
-  </a>
-  <a href="https://www.instagram.com/hakanmollaahmetoglu/" target="blank">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/3670/3670274.png"
-      alt="HakanMolla"
-      height="40"
-      width="40"
-    />
-  </a>
-    </p>
- 
+[![Meraklı Python Geliştirici](https://img.shields.io/badge/Merakl%C4%B1-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.example.com)
+[![Django Hayranı](https://img.shields.io/badge/Hayran%C4%B1-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.example.com)
+[![JavaScript Tutkunu](https://img.shields.io/badge/Tutkunu-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.example.com)
 
+## Hakkımda
 
+[10+ yıl](https://www.example.com) aşkın bir süredir Telekom sektöründe çalışan bir uzmanım. Asterisk üzerinde sistem kurulumları ve proje geliştirmeleri konusunda deneyimliyim. Aynı zamanda VoIP, Network, Linux, Server ve Sanallaştırma Teknolojileri konularında da uzmanlığım bulunuyor.
 
-<h5>Devops</h5>
-<p align="left">
-  <a href="https://www.asterisk.org/" target="_blank">
-    <img
-      src="https://www.asterisk.org/wp-content/uploads/asterisk-logo.png"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
+## Projelerim
+
+- [Proje Adı 1](https://www.example.com) - Proje Açıklaması 1
+- [Proje Adı 2](https://www.example.com) - Proje Açıklaması 2
+- [Proje Adı 3](https://www.example.com) - Proje Açıklaması 3
+
+## İletişim
