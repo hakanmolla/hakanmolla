@@ -13,7 +13,7 @@ Linux'ta terminal oturum yönetimi, kullanıcıların birden fazla pencere veya 
 Tmux'i başlatmak için terminalde tmux komutunu kullanabilirsiniz. Tmux başladığında, varsayılan olarak bir oturum (session) oluşturulur ve tek bir pencere (window) ile açılır.
 Komut: tmux
 
-# Oturum Yönetimi:**
+# Oturum Yönetimi:
 Tmux'ta oturumlar, birden fazla pencereyi ve panelleri bir araya getiren en üst düzey yapıdır. Oturumları oluşturabilir, listeyebilir, yeniden adlandırabilir ve aralarında geçiş yapabilirsiniz.
 Oturum Oluşturma:
 Yeni bir oturum oluşturmak için tmux new-session komutunu kullanabilirsiniz.
