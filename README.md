@@ -20,6 +20,11 @@
 
 ## İletişim Bilgileri
 
+[![Email](https://img.shields.io/badge/Email-hakan.mollaahmetoglu%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:hakan.mollaahmetoglu@gmail.com)
+[![Website](https://img.shields.io/badge/Website-hakanmollaahmetoglu.com-blue?style=for-the-badge&logo=website)](http://hakanmollaahmetoglu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hakan--mollaahmetoglu-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/)
+
+
 - E-posta: hakan.mollaahmetoglu@gmail.com
 - Website: http://hakanmollaahmetoglu.com
 - LinkedIn: https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/
