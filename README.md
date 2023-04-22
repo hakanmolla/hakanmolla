@@ -1,11 +1,11 @@
 # Merhaba! Benim adım  Hakan Mollaahmetoğlu 👋
 
 [![Telekom Sektörü Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Telekom%20Sekt%C3%B6r%C3%BC-ff9900?style=for-the-badge&logo=telekom&logoColor=white)](https://www.example.com)
-[![Asterisk Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Asterisk-2C2255?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
+[![Asterisk Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Asterisk-B22222?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
 [![VoIP Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-VoIP-2C2255?style=for-the-badge&logo=voip&logoColor=white)](https://www.example.com)
-[![Network Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Network-0078D7?style=for-the-badge&logo=network&logoColor=white)](https://www.example.com)
-[![Linux Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.example.com)
-[![Server Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Server-008272?style=for-the-badge&logo=server&logoColor=white)](https://www.example.com)
+[![Network Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Network-FFFF00?style=for-the-badge&logo=network&logoColor=white)](https://www.example.com)
+[![Linux Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Linux-800080?style=for-the-badge&logo=linux&logoColor=white)](https://www.example.com)
+[![Server Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Server-228B22?style=for-the-badge&logo=server&logoColor=white)](https://www.example.com)
 [![Sanallaştırma Teknolojileri Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Sanalla%C5%9Ft%C4%B1rma-5EBA7D?style=for-the-badge&logo=virtualization&logoColor=white)](https://www.example.com)
 
 [![Meraklı Python Geliştirici](https://img.shields.io/badge/Merakl%C4%B1-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.example.com)
