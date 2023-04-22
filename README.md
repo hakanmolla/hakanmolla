@@ -22,15 +22,16 @@ I am an expert with over [10+ years](https://www.example.com) of experience in t
 [![Website](https://img.shields.io/badge/Website-hakanmollaahmetoglu.com-blue?style=for-the-badge&logo=website)](http://hakanmollaahmetoglu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hakan--mollaahmetoglu-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/)
 
+🔍 For your questions, 💬 feedback, or 💼 business proposals, I'm always open!
 
 
 
 
---------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-TÜRKÇE BÖLÜM
 
---------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -66,5 +67,6 @@ TÜRKÇE BÖLÜM
 - Website: http://hakanmollaahmetoglu.com
 - LinkedIn: https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/
 
-Sorularınız, görüşleriniz veya iş teklifleri için her zaman açığım!
+🔍 Sorularınız, 💬 görüşleriniz veya 💼 iş teklifleri için her zaman açığım!
+
 
