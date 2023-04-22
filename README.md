@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am an expert with over [10+ years](https://www.example.com) of experience in the Telecom sector. I have expertise in system installations and project development on Asterisk. I also have expertise in VoIP, Network, Linux, Server, and Virtualization Technologies.
+I am an expert with over [10+ years] of experience in the Telecom sector. I have expertise in system installations and project development on Asterisk. I also have expertise in VoIP, Network, Linux, Server, and Virtualization Technologies.
 
 ## Contact Information
 
