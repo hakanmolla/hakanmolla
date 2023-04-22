@@ -1,6 +1,6 @@
 # Hello! My name is Hakan Mollaahmetoğlu 👋
 
-[![Telecom Sector Expertise](https://img.shields.io/badge/Expertise-Telecom%20Sector-ff9900?style=for-the-badge&logo=telekom&logoColor=white)](https://www.example.com)
+[![Telecom Sector Expertise](https://img.shields.io/badge/Expertise-Telecom%20Sector-ff9900?style=for-the-badge&logo=telekom&logoColor=white)]()
 [![Asterisk Expertise](https://img.shields.io/badge/Expertise-Asterisk-B22222?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
 [![VoIP Expertise](https://img.shields.io/badge/Expertise-VoIP-2C2255?style=for-the-badge&logo=voip&logoColor=white)]
 [![Network Expertise](https://img.shields.io/badge/Expertise-Network-FFFF00?style=for-the-badge&logo=network&logoColor=white)
