@@ -1,4 +1,4 @@
-# Merhaba! Benim adım I'm Hakan Mollaahmetoğlu 👋
+# Merhaba! Benim adım  Hakan Mollaahmetoğlu 👋
 
 [![Telekom Sektörü Uzmanı](https://img.shields.io/badge/Uzman-Telekom%20Sekt%C3%B6r%C3%BC-ff9900?style=for-the-badge&logo=telekom&logoColor=white)](https://www.example.com)
 [![Asterisk Uzmanı](https://img.shields.io/badge/Uzman-Asterisk-2C2255?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
@@ -16,10 +16,12 @@
 
 [10+ yıl](https://www.example.com) aşkın bir süredir Telekom sektöründe çalışan bir uzmanım. Asterisk üzerinde sistem kurulumları ve proje geliştirmeleri konusunda deneyimliyim. Aynı zamanda VoIP, Network, Linux, Server ve Sanallaştırma Teknolojileri konularında da uzmanlığım bulunuyor.
 
-## Projelerim
 
-- [Proje Adı 1](https://www.example.com) - Proje Açıklaması 1
-- [Proje Adı 2](https://www.example.com) - Proje Açıklaması 2
-- [Proje Adı 3](https://www.example.com) - Proje Açıklaması 3
 
-## İletişim
+## İletişim Bilgileri
+
+- E-posta: hakan.mollaahmetoglu@gmail.com
+- Website: http://hakanmollaahmetoglu.com
+- LinkedIn: https://www.linkedin.com/in/hakan-mollaahmeto%C4%9Flu-09473948/
+
+Sorularınız, görüşleriniz veya iş teklifleri için her zaman açığım!
