@@ -2,7 +2,7 @@
 
 [![Telekom Sektörü Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Telekom%20Sekt%C3%B6r%C3%BC-ff9900?style=for-the-badge&logo=telekom&logoColor=white)](https://www.example.com)
 [![Asterisk Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Asterisk-2C2255?style=for-the-badge&logo=asterisk&logoColor=white)](https://www.example.com)
-[![VoIP Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-VoIP-006BA7?style=for-the-badge&logo=voip&logoColor=white)](https://www.example.com)
+[![VoIP Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-VoIP-2C2255?style=for-the-badge&logo=voip&logoColor=white)](https://www.example.com)
 [![Network Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Network-0078D7?style=for-the-badge&logo=network&logoColor=white)](https://www.example.com)
 [![Linux Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.example.com)
 [![Server Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Server-008272?style=for-the-badge&logo=server&logoColor=white)](https://www.example.com)
