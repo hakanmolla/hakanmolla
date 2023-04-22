@@ -36,7 +36,8 @@ I am an expert with over [10+ years](https://www.example.com) of experience in t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DevOps Toolbox](https://github.com/hakanmolla/DevOps-Toolbox/blob/main/icon.png)](https://github.com/hakanmolla/DevOps-Toolbox)
+[![DevOps Toolbox](https://raw.githubusercontent.com/hakanmolla/DevOps-Toolbox/main/icon.png)](https://github.com/hakanmolla/DevOps-Toolbox)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
