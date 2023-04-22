@@ -9,7 +9,7 @@
 [![Sanallaştırma Teknolojileri Uzmanlığıı](https://img.shields.io/badge/Uzmanlığı-Sanalla%C5%9Ft%C4%B1rma-5EBA7D?style=for-the-badge&logo=virtualization&logoColor=white)](https://www.example.com)
 
 [![Meraklı Python Geliştirici](https://img.shields.io/badge/Merakl%C4%B1-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.example.com)
-[![Django Hayranı](https://img.shields.io/badge/Hayran%C4%B1-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.example.com)
+[![Django Hayranı](https://img.shields.io/badge/Hayran%C4%B1-Django-228B87?style=for-the-badge&logo=django&logoColor=white)](https://www.example.com)
 [![Meraklı JavaScript](https://img.shields.io/badge/Meraklı-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.example.com)
 
 ## Hakkımda
