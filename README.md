@@ -36,7 +36,7 @@ I am an expert with over [10+ years](https://www.example.com) of experience in t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DevOps Toolbox](https://github.com/hakanmolla/DevOps-Toolbox/raw/master/icon.png)](https://github.com/hakanmolla/DevOps-Toolbox)
+[![DevOps Toolbox](<a href="https://www.flaticon.com/free-icons/devops" title="devops icons">Devops icons created by SBTS2018 - Flaticon</a>)](https://github.com/hakanmolla/DevOps-Toolbox)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
